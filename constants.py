@@ -1,0 +1,5 @@
+BASE_HOST_URL = 'https://www.airbnb.com/users/show/{host_id}'
+EMAIL = 'fonevo5863@moenode.com'
+# EMAIL = 'nujahaqa@forexnews.bg'
+PASSWORD = 'Suf9yB8L&iRrAe'
+# PASSWORD = 'Pak0istan1'
