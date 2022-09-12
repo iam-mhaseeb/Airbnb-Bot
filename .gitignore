@@ -1,5 +1,8 @@
 __pycache__
+__pycache__/
 venv/
+.idea
 .idea/
+.idea/*
 user_data/*
 !user_data/ADD_ME_TO_GIT.txt
