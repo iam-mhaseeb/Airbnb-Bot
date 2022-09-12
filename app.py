@@ -20,7 +20,3 @@ def index():  # put application's code here
             raise e
 
     return render_template('index.html')
-
-
-if __name__ == '__main__':
-    app.run()
